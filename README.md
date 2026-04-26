@@ -1,8 +1,8 @@
 # Hi there 👋
 
-I'm Štefan, a Computer Science student at **Masaryk University** in Brno.  
-I focus on building modern web applications and exploring backend architectures.  
-Currently seeking opportunities to apply my knowledge in a professional environment.
+I'm Štefan, a Computer Science student at Masaryk University in Brno.
+I enjoy working on web projects and exploring how things work under the hood.
+Currently seeking an internship where I can contribute and grow as a developer.
 
 ---
 
