@@ -26,7 +26,7 @@ Currently seeking an internship where I can contribute and grow as a developer.
 
 ### 📌 A Bit About Me
 
-- 🎓 Bc. Programming and Application Development – 4th semester
+- 🎓 Bc. Programming and Application Development – 5th semester
 - 🧠 Interested in Algorithms, Software Engineering and Database Systems
 - 🌍 Slovak (native), Czech (fluent), English (B2)
 - ⚽ Sports enthusiast turned tech passionate
